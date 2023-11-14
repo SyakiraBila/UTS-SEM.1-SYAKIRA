@@ -1,0 +1,33 @@
+body{
+    padding: 155px;
+    width: 75%;
+    background-color: rgb(248, 209, 215);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+    table {
+        width: fit-content;
+        margin: 7px auto;
+    }
+    input, select{
+        height: 27px;
+    }
+    input, select, textarea{
+        border-radius: 3px;
+        border: 2px solid #000000;
+    }
+    td{
+        padding: 7px;
+    }
+    label{
+        font-size: 17px;
+        text-align: 37px;
+    }
+    .btn-blue{
+        background-color: rgb(61, 59, 199);
+    }
+    .btn-red{
+        background-color: red;
+    }
+    .legend{
+        font-size: 100px;
+    }
